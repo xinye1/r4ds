@@ -128,7 +128,7 @@ To install these packages, open the RStudio IDE and run the command
 install.packages(c("DBI", "devtools", "dplyr", "ggplot2", "haven", "knitr", "lubridate", "packrat", "readr", "rmarkdown", "rsqlite", "rvest", "scales", "shiny", "stringr", "tidyr"))
 ```
 
-R will download the packages from [cran.r-project.org](http://cran.r-project.org) and instll them in your system library. So be sure that you are connected to the internet, and that you have not blocked [cran.r-project.org](http://cran.r-project.org)in your firewall or proxy settings.
+R will download the packages from [cran.r-project.org](http://cran.r-project.org) and install them in your system library. So be sure that you are connected to the internet, and that you have not blocked [cran.r-project.org](http://cran.r-project.org) in your firewall or proxy settings.
 
 After you have downloaded the packages, you can load any of the packages into your current R session with the `library()` command, e.g.
 
